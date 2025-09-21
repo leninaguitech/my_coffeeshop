@@ -15,4 +15,4 @@ The website was created using the following HTML and CSS topics:
 - Responsive iframes
 - Form Customization
 
-You can access it here: https://leninaguitech.github.io/web_project_coffeeshop/
+You can access it here: https://leninaguitech.github.io/my_coffeeshop
