@@ -1,25 +1,18 @@
-# Triple Espresso
+# My Coffee Shop
 
-Proyecto: Triple Espresso – Cafetería Celeste
+Fourth Project of TripleTen University
 
-Sitio web desarrollado como parte del proyecto Triple Espresso, en el que se aplican las siguientes tecnologías :
+The website was created using the following HTML and CSS topics:
 
-- HTML avanzado
-- CSS avanzado
-- Metolodiga BEM
+- Browser Styles
+- Cross-Browser and Font Compatibility
+- Adding Fonts to a Web Page
+- Block Overflow
+- Pseudoclasses
+- Pseudo-Elements and Attribute Selectors
+- Embedding Content with the <iframe> Element
+- Inline Frames and Cross-Browser Compatibility
+- Responsive iframes
+- Form Customization
 
-Puedes ingresar aqui:
-
-https://leninaguitech.github.io/web_project_coffeeshop/
-
-Project: Triple Espresso – Cafeteria Celeste
-
-Website developed as part of the Triple Espresso project, using the following technologies:
-
-- Advanced HTML
-- Advanced CSS
-- BEM Methodology
-
-You can access it here:
-
-https://leninaguitech.github.io/web_project_coffeeshop/
+You can access it here: https://leninaguitech.github.io/web_project_coffeeshop/
